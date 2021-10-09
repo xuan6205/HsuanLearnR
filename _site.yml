@@ -1,11 +1,7 @@
-name: "MyLabJournal"
+name: "HSUAN"
 navbar:
-  title: "MyLabJournal"
+  title: "HSUAN"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
-    - text: "Links"
-      href: Links.html
 output_dir: "docs"
